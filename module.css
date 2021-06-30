@@ -1,0 +1,191 @@
+*{
+			box-sizing: border-box;
+			
+		}
+h1{
+		
+		text-align: center;
+		font-family: sans-serif;
+		padding-right: 20%;
+
+	}
+
+	p{
+		width: 100%;
+		height: 80%;
+		font-family: sans-serif;
+		color: solid black;
+		text-align: center;
+
+
+
+	}
+	
+
+@media (min-width: 992px){
+			
+		.col-lg-3 {
+			width: 25%;
+			background-color: dimgray;
+			text-align: right;
+
+			float: left;
+			border: 3px solid black;
+			margin-left: 15px
+			
+		}
+
+		#p1{
+			background-color: hotpink;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 16.4%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+		#p2{
+			background-color: #de8063;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 42%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+
+		#p3{
+			background-color: #d2c65c;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 68%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+		
+		}
+		
+	
+@media (min-width: 768px) and (max-width: 991px){
+		.col-md-4{
+			width: 30%;
+			height: 30%;
+			background-color: dimgray;
+			text-align: center;
+
+			float: left;
+			border: 3px solid black;
+			margin-left: 15px
+		}
+
+		#p1{
+			background-color: hotpink;
+			position: absolute;
+			top: 9%;
+			width: 11%;
+			height: 5%;
+			left: 21%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+		#p2{
+			background-color: #de8063;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 53%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+
+		#p3{
+			background-color: #d2c65c;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 84%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+
+}
+
+@media(max-width: 767px){
+	.col-sm-6{
+		width: 30%;
+		height: 20%;
+		float: left;
+		background-color: dimgray;
+		border: 3px solid black;
+		margin-left: 15px;
+	}
+
+
+	#p1{
+			background-color: hotpink;
+			position: absolute;
+			top: 9%;
+			width: 12%;
+			height: 5%;
+			left: 20.5%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+
+		#p2{
+			background-color: #de8063;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 54%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+
+		#p3{
+			background-color: #d2c65c;
+			position: absolute;
+			top: 9%;
+			width: 10%;
+			height: 5%;
+			left: 85.5%;
+			border: 2px solid black;
+			text-align: center;
+			font: 24px bold;
+
+		}
+
+		h1{
+			text-align: center;
+		}
+
+}
+
+
+
+
+		
+		
